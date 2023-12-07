@@ -6,7 +6,7 @@
 
 Trabalho feito no segundo período para faculdade, curso de Engenharia de Software da UNIFAN, para obtenção de nota na disciplina "Algoritmos e Programação II".
 
-Nada mais é do que um simples jogo perguntas sobre o Brasil em java, para aprender os principios básicos da linguagem.
+Nada mais é do que um simples jogo de perguntas sobre o Brasil em java, para aprender os principios básicos da linguagem.
 
 
 ## 🧑🏾‍💻 Ferramentas Utilizadas
